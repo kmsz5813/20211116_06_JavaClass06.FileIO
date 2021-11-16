@@ -23,7 +23,7 @@ public class MainDrive {
 //		파일 LOAD (Input) 실습
 
 //		1. 어디서 파일을 불러올건지? 결로 설정.
-		File myFile = new File("mytext.txt");
+		File myFile = new File("mytest.txt");
 
 //		2. 파일 불러내기 클래스 활용 -> 파일이 지워져있으면? 예외 대응 try / catch 필요.
 
